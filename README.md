@@ -4,9 +4,6 @@
 </div>
 
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Farzad.Farzad&"  />
-</div>
 
 ###
 <h1 align="center">Hello 👋, I'm Farzad Rahmani</h1>
