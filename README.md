@@ -15,10 +15,10 @@
 <p align="left">
  Passionate about Data, Code & Insights! <br><br>
 I’m a <strong>Software Engineering student</strong> and <strong>Junior Data Analyst</strong>, exploring the world of <strong>Data Science</strong> and <strong>Machine Learning</strong>.  
--  Currently working on small data projects and improving my analytical skills  
--  Continuously learning Python, SQL, and data visualization tools  
--  In my free time, I experiment with datasets, create dashboards, and explore new technologies  
--  Aspiring to turn data into actionable insights that can make an impact  
+  Currently working on small data projects and improving my analytical skills  
+  Continuously learning Python, SQL, and data visualization tools  
+  In my free time, I experiment with datasets, create dashboards, and explore new technologies  
+  Aspiring to turn data into actionable insights that can make an impact  
 </p>
 
 
