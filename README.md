@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  Who am I?:
 Passionate about Data, Code, and Turning Information into Insights.<br><br>I’m a Software Engineering student and aspiring Data Analyst with a growing interest in Data Science and Machine Learning. I enjoy working with data, building small projects, and continuously improving my analytical and problem-solving skills.<br><br>Currently, I’m developing my skills in Python, SQL, and data visualization, while exploring different datasets and creating dashboards to better understand patterns and trends. I’m always curious about new technologies and love experimenting with tools that help transform raw data into meaningful insights.<br><br>My goal is to use data to solve real-world problems and create solutions that can make a meaningful impact.
 
 
