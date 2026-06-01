@@ -2,10 +2,9 @@
 
 **Software Engineering Student · Python Developer · Machine Learning Enthusiast**
 
-I'm a Software Engineering student at Cyprus International University with hands-on experience building machine learning pipelines and software applications. I work primarily in Python and have built end-to-end ML projects using Scikit-learn, Pandas, and SMOTE — including a customer churn prediction system that improved minority-class recall by ~30%.
+I’m a Software Engineering student at Cyprus International University who enjoys building things that actually work, not just sit in notebooks. I mainly work with Python and have been building machine learning pipelines and software applications using tools like Scikit-learn, Pandas, and SMOTE to handle real-world data challenges.
 
-I enjoy turning raw data into actionable insights and building tools that solve real problems — from ML models to desktop apps to web interfaces.
-
+What I like most is taking messy data and shaping it into something useful—whether that’s a predictive model, a desktop tool, or a simple web app that solves a real problem.
 
 
 ## 🌐 Socials
