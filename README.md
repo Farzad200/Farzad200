@@ -1,4 +1,4 @@
-# Hi, I'm Farzad Rahmani 👋
+# Hi, I'm Farzad Rahmani.
 
 **Software Engineering Student · Python Developer · Machine Learning Enthusiast**
 
